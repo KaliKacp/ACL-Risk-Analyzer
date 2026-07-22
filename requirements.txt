@@ -70,7 +70,7 @@ notebook_shim==0.2.4
 numba==0.66.0
 numpy==2.4.6
 opencv-contrib-python==5.0.0.93
-opencv-python-headless==5.0.0.93
+opencv-contrib-python-headless==5.0.0.93
 packaging==26.0
 pandas==3.0.5
 pandocfilters==1.5.1
