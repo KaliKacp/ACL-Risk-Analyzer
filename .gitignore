@@ -1,0 +1,18 @@
+cat > .gitignore << 'EOF'
+# Środowisko
+.venv/
+__pycache__/
+*.pyc
+
+# Dane surowe — za duże na GitHub
+data/raw/
+*.mp4
+*.avi
+*.mov
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+EOF
